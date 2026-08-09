@@ -9,6 +9,7 @@
 ## Exploration (planned)
 
 - write the "what I want to explore" doc
+- figure out vault structure for my tiny homelab and write about it
 - play with group-based access and see how it affects vault visibility
 - mess around with permissions to understand how granular they really are
 - try out a few policies and see how strict I can make things without breaking flow
