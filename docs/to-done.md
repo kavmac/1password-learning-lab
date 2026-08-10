@@ -16,5 +16,6 @@
 - started the proper to‑do list
 - drafted and published groups doc
 - drafted and published permissions doc
-
+- reviewed and clarified scope for vault structure work
+  
 *Will expand this as I go.*
