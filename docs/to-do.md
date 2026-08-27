@@ -19,3 +19,4 @@
 - approve Washburne as trusted and compare the experience
 - write a proper README once I know the shape of the project
 - expand general impressions as I go
+- figure out the order for the identity lab work once I have more pieces in place
