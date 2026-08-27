@@ -17,5 +17,6 @@
 - drafted and published groups doc
 - drafted and published permissions doc
 - reviewed and clarified scope for vault structure work
+- added the roadmap wip file
   
 *Will expand this as I go.*
