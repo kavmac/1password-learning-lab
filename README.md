@@ -1,22 +1,25 @@
-# 1password-learning-lab
-A learning lab for exploring 1Password Enterprise Password Manager.
+# 1Password Enterprise Learning Lab
 
-This repo is me messing around with 1Password Enterprise Password Manager in my homelab. I want to see if and how any of it fits into my tiny homelab environment with a couple of users and devices. And whatever else I come up with at 1AM.
+## 📌 Overview
+This repository serves as a hands-on proof-of-concept and learning lab for **1Password Business**. 
 
-This isn't my how‑to guide. I'm taking notes while I explore and break things.
+The goal is to test enterprise security features, user lifecycle management, group permission boundaries, and device trust policies in a multi-user, multi-device environment.
 
-## What’s here
+---
 
-- **To-Do** — things I still need to set up or try
-- **To-Done** — things I’ve already knocked out
-- **docs/** — everything that isn't a list
+## 📂 Documentation
 
-## Why I'm doing this
+* **[General Impressions](./docs/general-impressions.md)**
+* **[Groups](./docs/groups.md)**
+* **[Permissions](./docs/permissions.md)**
+* **[Roadmap](./docs/roadmap.md)**
+* **[To-Do](./docs/to-do.md)**
+* **[To-Done](./docs/to-done.md)**
+* **[Why I'm Doing This](./docs/why-im-doing-this.md)**
 
-Why not?
+---
 
-I've been using 1Password for as long as I can remember, but always as a regular everyday consumer. I want to poke at their Enterprise Password Manager and see what breaks, and what might fit into my homelab while I'm at it.
-
-## Status
-
-Very much a work in progress. I’ll add more as I go.
+## 🛠️ Current Lab Scope
+* **Access Control:** Evaluating group-based access and vault permission boundaries.
+* **Policy Testing:** Comparing user experience across trusted vs. untrusted endpoints.
+* **Identity Integration (Next Phase):** Preparing the environment for external IdP (Okta) and SCIM provisioning.
