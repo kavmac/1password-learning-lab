@@ -13,6 +13,7 @@
 - play with group-based access and see how it affects vault visibility
 - mess around with permissions to understand how granular they really are
 - try out a few policies and see how strict I can make things without breaking flow
+- map out Okta developer tenant group structure for SCIM synchronization
 - hook up SSO and walk through the login experience
 - test SCIM provisioning to see how lifecycle automation feels
 - mark straylight as untrusted and see what breaks
